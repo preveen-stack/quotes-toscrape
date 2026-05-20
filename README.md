@@ -1,7 +1,17 @@
 # Quote Scraper CLI
+```
 
+“The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.” — Albert Einstein
+
+
+“Try not to become a man of success. Rather become a man of value.” — Albert Einstein
+
+
+“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.” — Jane Austen
+
+```
 A simple Python command-line program that fetches quotes from
-[Quotes to Scrape](https://quotes.toscrape.com?utm_source=chatgpt.com)
+[Quotes to Scrape](https://quotes.toscrape.com)
 and displays a random quote each time you run it.
 
 ---
